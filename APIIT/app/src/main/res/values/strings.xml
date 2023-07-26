@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">APIIT</string>
+
+    <string name="bold" tools:ignore="ReferenceType">@font/latobold</string>
+    <string name="regular" tools:ignore="ReferenceType">@font/latoregular</string>
+    <string name="light" tools:ignore="ReferenceType">@font/latolight</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+    <string name="about_college">
+        About APIIT Engineering Institute: Top 10 Engineering Institutes in Delhi / NCR
+APIIT SD India is one of the Top 10 Engineering Institutes in Delhi/NCR, established by Sh. SD Education Society (Sanatan Dharam Education Society) in 2001. The Institute is affiliated to Kurukshetra University, Kurukshetra ,and approved by AICTE of India. APIIT has obtained the position of Top 10 Engineering Institutes in Delhi/NCR , in just few years by providing the best and quality education to the students. APIIT is a non-profit organization with the objective of redefining education by taking the process beyond the traditional boundary and incorporating holistic futuristic dimensions. Today, APIIT is a world renowned established centre for creation and dissemination of knowledge. APIIT SD India\'s vision is to nurture intellectual capital through its center of excellence in engineering colleges in Haryana which are governed by best practices in Quality Education.
+
+For over 70 years, S.D. Education Society has been at the forefront of Quality Education in the state of Haryana.  Today, over and above the state-of-the-art engineering college in Haryana: APIIT SD India, the S.D. Education Society also manages and runs 3 schools and a college and has evolved into one of the finest educational societies in India.
+26 acres sprawling Hi-Tech campus, State-of- the-Art infrastructure, and a welcoming ambience that have made APIIT a choice of  International/World-wide students from across 10 countries  and 20 different states of India.
+
+    </string>
+</resources>

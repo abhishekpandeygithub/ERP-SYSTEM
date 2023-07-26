@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "551421174406",
+    "project_id": "my-collage-app-f62ce",
+    "storage_bucket": "my-collage-app-f62ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551421174406:android:af074f3a3f33b25a2c2707",
+        "android_client_info": {
+          "package_name": "com.mastercoding.admincollegeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551421174406-e6gfhnuvtvk28onjn1r97uv577cbfhvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqxI3CdOeB-OFiwBvwY5X9gM0HxI2r-BI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551421174406-e6gfhnuvtvk28onjn1r97uv577cbfhvt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

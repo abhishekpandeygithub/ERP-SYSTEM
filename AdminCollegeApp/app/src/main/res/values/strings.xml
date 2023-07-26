@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Admin College App</string>
+    <string name="select_image">Select Image</string>
+    <string name="notice_title">Notice Title</string>
+    <string name="upload_notice">Upload Notice</string>
+    <string name="select_pdf">Select PDF</string>
+    <string name="todo">TODO</string>
+    <string name="no_file_selected">No File Selected</string>
+    <string name="upload_pdf">Upload Pdf</string>
+    <string name="pdf_title">Pdf title</string>
+</resources>
